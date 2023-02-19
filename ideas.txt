@@ -1,0 +1,21 @@
+DnD meetup site: contains a calender, and atleast atleast a text doc list that can be used to collect things people need for a site.
+
+Software tutorials, not programming
+
+Personal developer website for recruiters
+
+To-do list generator for traveling from one state to the other.
+
+3D printing site
+
+Project Management tutorials site
+
+Programming tutorial site
+
+Site about game dev blog
+
+DnD Blog
+
+Demographic future site
+
+
