@@ -1,0 +1,12 @@
+/* Here is a styles sheet used for styling HTML code */
+p 
+{
+	color: blue;
+	text-align: right;
+}
+
+h1
+{
+	color: red;
+	text-align: right;
+}

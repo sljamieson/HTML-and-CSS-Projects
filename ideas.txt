@@ -16,6 +16,6 @@ Site about game dev blog
 
 DnD Blog
 
-Demographic future site
+Demographic prediction site
 
 
