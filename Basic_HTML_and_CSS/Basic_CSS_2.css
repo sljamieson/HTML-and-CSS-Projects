@@ -6,3 +6,7 @@ p
 	font-weight: medium;
 	text-align: left;
 }
+
+h3 {
+  text-shadow: 2px 2px #ff0000;
+}
